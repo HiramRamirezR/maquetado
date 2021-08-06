@@ -1,0 +1,14 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    border: solid 1px;
+    text-align: left;
+}
+.red{
+    color: red;
+}
+
+#note{
+    font-size: 14px;
+}
