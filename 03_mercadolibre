@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lista de productos</title>
+    <link rel="stylesheet" href="mercadolibre.css" />
+  </head>
+  <body>
+    <div class="main">
+      <div class="card">
+        <div class="imagen">
+          <img src="/images/Screenshot_1.jpg" alt="laptop" class="laptop" />
+        </div>
+        <div class="texto">
+          <p class="oferta">OFERTA DEL DÍA</p>
+          <p class="descripcion">
+            Huawei Matebook D 14, Intel I5 512 Gb + 8 Gb Ram, Gris
+          </p>
+          <p class="texto-chico gris vendido">
+            Vendido por Mercado Libre Electronica
+          </p>
+          <p class="texto-chico gris"><del>$18,999</del></p>
+          <p class="precio">$ 16,999 <span class="verde">10% OFF</span></p>
+          <p class="en">
+            en <span class="verde reducir">12 x $1,417 sin interés</span>
+          </p>
+          <p class="verde">
+            Envío gratis <span class="rayo">🗲</span>
+            <span class="verde full">FULL</span>
+          </p>
+        </div>
+      </div>
+      <div class="linea"></div>
+      <div class="card">
+      <div class="imagen">
+        <img src="/images/Screenshot_2.jpg" alt="laptop" class="laptop" />
+      </div>
+      <div class="texto">
+        <p class="oferta">OFERTA DEL DÍA</p>
+        <p class="descripcion">
+          Ultrabook Huawei MateBook D16 space gray 16.1", AMD Ryzen 5 4600H 16
+          BG de RAM 512BG SSD, AMD Radeon RX Vega 6 60 Hz 1920x1080p...
+        </p>
+        <p class="texto-chico gris vendido">
+          Vendido por Mercado Libre Electronica
+        </p>
+        <p class="texto-chico gris"><del>$22,999</del></p>
+        <p class="precio">$ 20,999 <span class="verde">8% OFF</span></p>
+        <p class="en">
+          en <span class="verde reducir">12 x $1,750 sin interés</span>
+        </p>
+        <p class="verde">
+          Envío gratis <span class="rayo">🗲</span>
+          <span class="verde full">FULL</span>
+        </p>
+      </div>
+    </div>
+    <div class="linea"></div>
+    <div class="card">
+      <div class="imagen">
+        <img src="/images/Screenshot_3.jpg" alt="laptop" class="laptop" />
+      </div>
+      <div class="texto">
+        <p class="descripcion">
+          Laptom HP 240 G7 plateado ceniza oscuro 14", Intel Celeron N4020 4GB
+          de RAM 500GB HDD, Intel UHD Graphics 600 1366x768px Windows 1...
+        </p>
+        <p class="texto-chico gris vendido">Vendido por HP</p>
+        <p class="texto-chico gris"><del>$9,149</del></p>
+        <p class="precio">$ 8,499 <span class="verde">7% OFF</span></p>
+        <p class="en">
+          en
+          <span class="verde reducir">12 x $852<sup>73</sup> sin interés</span>
+        </p>
+        <p class="verde">
+          Envío gratis <span class="rayo">🗲</span>
+          <span class="verde full">FULL</span>
+        </p>
+      </div>
+    </div>
+  </div>
+  </body>
+</html>
