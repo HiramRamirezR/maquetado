@@ -9,6 +9,8 @@ body{
     width: auto;
     background-color: #fff159;
     position: relative;
+    display: flex;
+    justify-content: center;
    
 
     
@@ -71,6 +73,8 @@ button:hover{
 
 img{
     margin: 10px;
+    position: absolute;
+    left: 20px;
 }
 
 footer{
