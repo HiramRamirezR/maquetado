@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Netflix Mexico - Watch TV shows online</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="/images/favicon.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+  <body>
+    <div id="portada">
+      <img src="https://i.imgur.com/vsK9KvZ.jpg" alt="" id="BG" />
+      <img src="https://i.imgur.com/iNjdI8q.png" alt="" id="logo" />
+
+      <p id="idioma">
+        <i class="fa fa-globe"></i> English <i class="fa fa-caret-down"></i>
+      </p>
+      <p id="sign-in">Sign in</p>
+
+      <h1>Unlimited movies, TV shows, and more.</h1>
+
+      <p id="watch">Watch anywhere. Cancel anytime.</p>
+      <p id="ready">
+        Ready to watch? Enter your email to create or restart your membership.
+      </p>
+
+      <input type="email" name="email" id="email" placeholder="Email adress" />
+      <p id="get-started">Get Started <i class="fa fa-chevron-right"></i></p>
+    </div>
+    <div id="linea"></div>
+    <section>
+      <!------------------------------------------------------------------>
+      <div id="uno">
+        <p class="p-uno"><strong>Enjoy on your TV.</strong></p>
+        <p class="p-dos">
+          Watch on Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray
+          players, and more.
+        </p>
+
+        <div id="imagen1">
+          <img src="https://i.imgur.com/Y8BY2dy.gif" alt="" />
+        </div>
+      </div>
+      <div id="linea2"></div>
+      <!------------------------------------------------------------------>
+      <div id="dos">
+        <p class="p-uno2">
+          <strong>Download your shows to watch offline.</strong>
+        </p>
+        <p class="p-dos2">
+          Save your favorites easily and always have something to watch.
+        </p>
+
+        <div id="imagen2">
+          <img src="https://i.imgur.com/yLzfuoc.gif" alt="" />
+        </div>
+      </div>
+      <!------------------------------------------------------------------>
+      <div id="tres">
+        <p class="p-uno3"><strong>Watch everywhere.</strong></p>
+        <p class="p-dos3">
+          Stream unlimited movies and TV shows on your phone, tablet, laptop,
+          and TV without paying more.
+        </p>
+
+        <div id="imagen3">
+          <img src="https://i.imgur.com/0aaXH71.gif" alt="" />
+        </div>
+      </div>
+      <div id="linea3"></div>
+      <!------------------------------------------------------------------>
+
+      <div id="cuatro">
+        <p class="p-uno4"><strong>Create profiles for kids.</strong></p>
+        <p class="p-dos4">
+          Send kids on adventures with their favorite characters in a space made
+          just for them—free with your membership.
+        </p>
+
+        <div id="imagen4">
+          <img src="https://i.imgur.com/0fSmFNT.png" alt="" />
+        </div>
+      </div>
+      <div id="linea4"></div>
+      <!------------------------------------------------------------------>
+    </section>
+
+    <div id="linea5"></div>
+
+    <section id="faq">
+      <p id="p-faq">
+        <b>Frequently Asked Questions</b>
+      </p>
+      <div id="questions">
+        <p class="gray">What is Netflix?</p>
+        <p class="gray">How much does Netflix cost?</p>
+        <p class="gray">Where can I watch?</p>
+        <p class="gray">How do I cancel?</p>
+        <p class="gray">What can I whatch on Netflix?</p>
+        <p class="gray">Is Netflix good for kids?</p>
+      </div>
+      <div id="ready2">
+
+        <p id="ready">
+            Ready to watch? Enter your email to create or restart your membership.
+        </p>
+
+        <input type="email" name="email" id="email" placeholder="Email adress" />
+        <p id="get-started">Get Started <i class="fa fa-chevron-right"></i></p>
+    </div>
+    </section>
+    <div id="linea6"></div>
+    <table>
+        <thead>
+            <tr>
+                <td><a href="#" id="questions-enlace">Questions? Call 800-522-9957</a></td>
+            </tr>
+            <tr>
+                <td><a href="#" >FAQ</a></td>
+                <td><a href="#">Help Center</a></td>
+                <td><a href="#">Account</a></td>
+                <td><a href="#">Meda Center</a></td>
+            </tr>
+            <tr>
+                <td><a href="#">Investro Relations</a></td>
+                <td><a href="#">Jobs</a></td>
+                <td><a href="#">Redeem Gift Cards</a></td>
+                <td><a href="#">Buy Gift Cards</a></td>
+            </tr>
+            <tr>
+                <td><a href="#">Ways to Watch</a></td>
+                <td><a href="#">Terms of use</a></td>
+                <td><a href="#">Privacy</a></td>
+                <td><a href="#">Cookie Preferences</a></td>
+            </tr>
+            <tr>
+                <td><a href="#">Corporate Information</a></td>
+                <td><a href="#">Contact Us</a></td>
+                <td><a href="#">Spead Test</a></td>
+                <td><a href="#">Legal Notices</a></td>
+            </tr>
+            <tr>
+                <td><a href="#">Only on Netflix</a></td>
+                
+            </tr>
+        </thead>
+    </table>
+    <p id="idioma2">
+        <i class="fa fa-globe"></i> English <i class="fa fa-caret-down"></i>
+      </p>
+      <p id="netflix-mexico">Netflix Mexico</p>
+  </body>
+</html>
